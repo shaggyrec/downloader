@@ -1,5 +1,7 @@
 # Downloader
 
+[![Build Status](https://travis-ci.org/shaggyrec/downloader.svg?branch=master)](https://travis-ci.org/shaggyrec/downloader)
+
 ### Download manager using laravel
 
 ## Preparations
