@@ -65,6 +65,6 @@ To add file to the queue:
 
     ./vendor/bin/phpunit
 
-## TODO
-    + queues with redis
-    + updating files info using WS
+### TODO
++ queues with redis
++ updating files info using WS
